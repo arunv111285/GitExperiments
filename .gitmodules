@@ -1,0 +1,3 @@
+[submodule "AnotherGitExperiment"]
+	path = AnotherGitExperiment
+	url = https://github.com/arunv111285/AnotherGitExperiment.git
